@@ -3,7 +3,7 @@
 <div align="center">
   <h3>Soundizer</h3>
   <div>
-    <a href="https://https://khomotso012.github.io/soundizer.github.io/">View Demo</a>
+    <a href="https://khomotso012.github.io/soundizer.github.io">View Demo</a>
     ·
     <a href="https://github.com/Khomotso012/Webstack_Portfolio_Project/tree/master/issues">Report Bug</a>
     ·
