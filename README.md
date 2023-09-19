@@ -28,7 +28,6 @@
      <li>
       <a href="#preview">Preview</a>
        
-    </li> 
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#link">Link</a></li>
     <li><a href="#contact">Contact</a></li>
