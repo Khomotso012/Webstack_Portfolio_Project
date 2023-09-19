@@ -11,7 +11,7 @@
   </div>
 </div>
 
-![license-shield] [![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 ---
 
 <!-- TABLE OF CONTENTS -->
