@@ -1,13 +1,13 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3>SoundSculpt</h3>
+  <h3>Soundizer</h3>
   <div>
-    <a href="https://thenewc0der-24.github.io/SoundSculpt/">View Demo</a>
+    <a href="https://github.com/Khomotso012/Webstack_Portfolio_Project">View Demo</a>
     ·
-    <a href="https://github.com/TheNewC0der-24/SoundSculpt/issues">Report Bug</a>
+    <a href="https://github.com/Khomotso012/Webstack_Portfolio_Project/tree/master/issues">Report Bug</a>
     ·
-    <a href="https://github.com/TheNewC0der-24/SoundSculpt/issues/new">Request Feature</a>
+    <a href="https://github.com/Khomotso012/Webstack_Portfolio_Project/tree/master/issues/new">Request Feature</a>
   </div>
 </div>
 
