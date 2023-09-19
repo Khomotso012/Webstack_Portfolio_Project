@@ -27,7 +27,10 @@
     <li><a href="#features">Features</a></li>
      <li>
       <a href="#preview">Preview</a>
-       
+      <ul>
+        <li><a href="#pwa">PWA</a></li>
+      </ul>
+    </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#link">Link</a></li>
     <li><a href="#contact">Contact</a></li>
