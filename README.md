@@ -76,20 +76,17 @@ https://thenewc0der-24.github.io/SoundSculpt/
 
 ## Contact
 
-Twitter - [@Bhavya06001699](https://twitter.com/Bhavya06001699)
+Twitter - [@TriggaSessions](https://twitter.com/TriggaSessions)
 
-Portfolio Link: [Bhavya Khurana](https://bhavya-khurana.vercel.app/)
+Portfolio Link: [Soundizer](https://github.com/Khomotso012/Webstack_Portfolio_Project)
 
-Blogs: [Hashnode](https://hashnode.com/@BhavyaKhurana)
 
 <p align="right">(<a href="#readme-top">Back to top ⬆️</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077b5
-[linkedin-url]: https://www.linkedin.com/in/bhavyakhurana24/
+[linkedin-url]: https://www.linkedin.com/in/khomotso-mohlahlana-852193184/
 [html]: https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html&logoColor=white
 [css]: https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css&logoColor=white
 [javascript]: https://img.shields.io/badge/js-f7df1e?style=for-the-badge&logo=js&logoColor=4FC08D
