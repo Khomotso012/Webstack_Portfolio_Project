@@ -28,7 +28,7 @@
      <li>
       <a href="#preview">Preview</a>
       <ul>
-        <li><a href="#pwa">PWA</a></li>
+        <li><a href="#pwa">Preview</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
