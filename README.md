@@ -25,12 +25,7 @@
       </ul>
     </li>
     <li><a href="#features">Features</a></li>
-    <li>
-      <a href="#preview">Preview</a>
-      <ul>
-        <li><a href="#pwa">PWA</a></li>
-      </ul>
-    </li>
+    
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#link">Link</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -55,8 +50,6 @@ An awesome website to play songs.
 ## Preview
 ![image](https://github.com/TheNewC0der-24/SoundSculpt/blob/master/Preview/Preview.png)
 
-### PWA
-![image](https://github.com/TheNewC0der-24/SoundSculpt/blob/master/PWA/Lighthouse%20Report.png)
 
 ## Contributing
 Contributions are what makes GitHub such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
