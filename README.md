@@ -53,7 +53,7 @@ An awesome website to play songs.
 5. Responsive Website.
 
 ## Preview
-![image](https://github.com/TheNewC0der-24/SoundSculpt/blob/master/Preview/Preview.png)
+![image](https://github.com/Khomotso012/Webstack_Portfolio_Project/blob/master/Preview/Screenshot%202.png)
 
 
 ## Contributing
